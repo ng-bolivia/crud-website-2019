@@ -4,7 +4,10 @@
   "description": "",
   "main": "speakers.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sessions": "node ./sessions.js",
+    "schedule": "node ./schedule.js",
+    "generate-schedule": "node ./generate-sessions-speakers-schedule.js"
   },
   "author": "",
   "license": "ISC",
