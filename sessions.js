@@ -184,7 +184,8 @@ collection.doc('126').set({
   speakers: ['jorge_cano'],
   tags: ['Web'],
   complexity: 'Intermediate',
-  description: '"En este workshop vamos a ver la arquitectura enterprise que usan empresas como PayPal, Dropbox, Google, Huawei, Stripe, Pinterest entre otros gigantes de la internet. Esta arquitectura la vamos a ejecutar sobre Bazel en la cual aprenderemos sobre que es un mono-repo, las ventajas del mismo, los tiempos de build y todos los puntos importantes de esto. Aprenderemos Bazel para poder utilizar estos monorepos y hasta veremos como funciona en angular desde un proyecto desde cero y cómo migrar nuestros proyectos(en vivo, si si, en vivo)."'
+  description:
+    '"En este workshop vamos a ver la arquitectura enterprise que usan empresas como PayPal, Dropbox, Google, Huawei, Stripe, Pinterest entre otros gigantes de la internet. Esta arquitectura la vamos a ejecutar sobre Bazel en la cual aprenderemos sobre que es un mono-repo, las ventajas del mismo, los tiempos de build y todos los puntos importantes de esto. Aprenderemos Bazel para poder utilizar estos monorepos y hasta veremos como funciona en angular desde un proyecto desde cero y cómo migrar nuestros proyectos(en vivo, si si, en vivo)."'
 });
 
 collection.doc('127').set({
@@ -193,7 +194,8 @@ collection.doc('127').set({
   speakers: ['alain_chautard'],
   tags: ['Web'],
   complexity: 'Introductory - Intermediate',
-  description: '"Until now, end-to-end testing wasn’t easy. It was the part developers hated. Cypress is a solution that makes setting up, writing, running and debugging end-to-end tests easy. In this talk, we\'re going to demonstrate how Cypress works, take a look at its features, and write a couple of tests as well!"'
+  description:
+    '"Until now, end-to-end testing wasn’t easy. It was the part developers hated. Cypress is a solution that makes setting up, writing, running and debugging end-to-end tests easy. In this talk, we\'re going to demonstrate how Cypress works, take a look at its features, and write a couple of tests as well!"'
 });
 
 collection.doc('128').set({
@@ -202,7 +204,8 @@ collection.doc('128').set({
   speakers: ['william_grasel'],
   tags: ['Web'],
   complexity: 'Intermediate - Advanced',
-  description: '"Reactive programming is super flexible and powerful, but it is also hard to master! In this Workshop, we\'re are going to learn about common reactive smells and how to avoid them, and even better, were are going to learn the best patterns to reactively compose the most difficult interfaces with pure RxJS!"'
+  description:
+    '"Reactive programming is super flexible and powerful, but it is also hard to master! In this Workshop, we\'re are going to learn about common reactive smells and how to avoid them, and even better, were are going to learn the best patterns to reactively compose the most difficult interfaces with pure RxJS!"'
 });
 
 collection.doc('129').set({
@@ -211,5 +214,6 @@ collection.doc('129').set({
   speakers: ['israel_guzman'],
   tags: ['Web'],
   complexity: 'Introductory - Intermediate',
-  description: '"Since the beginning, the Angular team has put a lot of efforts to follow web components standards. You can use a web component inside your Angular app easily. However, sharing your Angular components with other web apps was not feasible until now. In this Workshop you will learn all the uses of Angular Elements in a practical way."'
+  description:
+    '"Since the beginning, the Angular team has put a lot of efforts to follow web components standards. You can use a web component inside your Angular app easily. However, sharing your Angular components with other web apps was not feasible until now. In this Workshop you will learn all the uses of Angular Elements in a practical way."'
 });
